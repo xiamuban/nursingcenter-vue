@@ -1,4 +1,4 @@
-# nursingcenter-vue
+# springboot-vue
 
 ## Project setup
 ```
